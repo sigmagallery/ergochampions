@@ -1,8 +1,11 @@
-title: Ergochampions
-description: Sigma Gallery is a powerful tool designed for NFT artists to effortlessly create and maintain a webpage that showcases their collections in an organized manner. This demo page allows you to explore the various features and capabilities of Sigma Gallery. By linking the Gallery to configuration files on GitHub, you can easily manage your website without incurring any recurring fees.
-image: https://ipfs.io/ipfs/QmPekYtv8BPx3Q3yz13hmzteUHQmNrreMFJfyskB7fJSwx/336_Chase-the-IRS-hitman7.png
+title: Ergo Champions
+description: Brave champions hailing from the fantasy world of Sigmahaven. They are on a quest to command and conquer those who oppose their kingdom.
+image: https://cloudflare-ipfs.com/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/418.jpeg
 mintAddresses:
-- 9hfNCyqJsCSku8HXrV17Y6AaQciCAwkwx4M49imdWjRaTX22Mvz
+- 9fDDX4RiHJqezYmUMvfpn9RXP4bYwr3NnosUYpVNKuvuFhzPm7i
+- 9g7QyoUZdcfst83YQCfgc4uchDYxbEvTFURVyKVBJZh8AzeyYaZ
+- 9hyxVZLRuJ1zkgYfMPYHLTnBixAgZfLVwxioWhAXWTD3bLzmntC
+- 9fWcVXLphZyFfGFgJ4SXjowYE7WJj4kYPBr5PQshWYj9mCiQTQc
 bannerLinks:
 - label: Twitter
   url: https://twitter.com/
