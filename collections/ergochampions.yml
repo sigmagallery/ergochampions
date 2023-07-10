@@ -16,58 +16,7 @@ nfts:
     {"trait_type": "helmet", "value": "emerald helmet "}]}
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/1.jpeg
-- tokenId: 56053cc35a01d2fcac682a2a7c8f6ae546036a058721a96bdc1e6bdbd1b66cf0
-  name: 'Ergo Champions #1'
-  description: >-
-    {"name": "Ergo Champions #1", "description": "A brave champion hailed from
-    the fantasy world of Sigmahaven. They are on a quest to command and conquer
-    those who oppose their kingdom.", "file_url": "Ergo Champions",
-    "custom_fields": {"dna": "fe259d86708f082e23dff5acbd9ae820057c2980",
-    "edition": 1, "date": 1658615939457, "compiler": "Ergo Champions"},
-    "attributes": [{"trait_type": "background", "value": "claret "},
-    {"trait_type": "character", "value": "skeleton"}, {"trait_type": "boots",
-    "value": "citizen boots "}, {"trait_type": "armor", "value": "red ruby armor
-    "}, {"trait_type": "arm", "value": "iron arm armor"}, {"trait_type":
-    "shield", "value": "black and red shield"}, {"trait_type": "weapons",
-    "value": "axe "}, {"trait_type": "amulet", "value": "purple amulet "},
-    {"trait_type": "helmet", "value": "emerald helmet "}]}
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/1.jpeg
-- tokenId: 5ef8c27d4b7fc2c530704c89f3db742129b5984c707e707dd4c90250264f8c7c
-  name: 'Ergo Champions #1'
-  description: >-
-    {"name": "Ergo Champions #1", "description": "A brave champion hailed from
-    the fantasy world of Sigmahaven. They are on a quest to command and conquer
-    those who oppose their kingdom.", "file_url": "Ergo Champions",
-    "custom_fields": {"dna": "fe259d86708f082e23dff5acbd9ae820057c2980",
-    "edition": 1, "date": 1658615939457, "compiler": "Ergo Champions"},
-    "attributes": [{"trait_type": "background", "value": "claret "},
-    {"trait_type": "character", "value": "skeleton"}, {"trait_type": "boots",
-    "value": "citizen boots "}, {"trait_type": "armor", "value": "red ruby armor
-    "}, {"trait_type": "arm", "value": "iron arm armor"}, {"trait_type":
-    "shield", "value": "black and red shield"}, {"trait_type": "weapons",
-    "value": "axe "}, {"trait_type": "amulet", "value": "purple amulet "},
-    {"trait_type": "helmet", "value": "emerald helmet "}]}
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/1.jpeg
 - tokenId: 43ea3e2ed906d82f36fb01a6664a852afac09888e2ab6312ff243d5068f2b9cd
-  name: 'Ergo Champions #2'
-  description: >-
-    {"name": "Ergo Champions #2", "description": "A brave champion hailed from
-    the fantasy world of Sigmahaven. They are on a quest to command and conquer
-    those who oppose their kingdom.", "file_url": "Ergo Champions",
-    "custom_fields": {"dna": "2f3c709538cd84c50c57ccd1ed619aacba936eb9",
-    "edition": 2, "date": 1658615941090, "compiler": "Ergo Champions"},
-    "attributes": [{"trait_type": "background", "value": "claret "},
-    {"trait_type": "character", "value": "skeleton"}, {"trait_type": "boots",
-    "value": "citizen boots "}, {"trait_type": "armor", "value": "iron armor "},
-    {"trait_type": "arm", "value": "gray and blue arm armor"}, {"trait_type":
-    "shield", "value": "gold and diamond shield"}, {"trait_type": "weapons",
-    "value": "bending sword "}, {"trait_type": "amulet", "value": "purple amulet
-    "}, {"trait_type": "helmet", "value": "voraks helmet "}]}
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/2.jpeg
-- tokenId: 472372b79b25080da910c0811cc88f27a4b45bef5ed5eacdd65df35404053dbf
   name: 'Ergo Champions #2'
   description: >-
     {"name": "Ergo Champions #2", "description": "A brave champion hailed from
@@ -101,23 +50,6 @@ nfts:
     {"trait_type": "helmet", "value": "emerald helmet "}]}
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/3.jpeg
-- tokenId: 0713e149c0a6036737929cf46f9302aa1454cc61b8936b093e8f4bc57d0d6e5b
-  name: 'Ergo Champions #3'
-  description: >-
-    {"name": "Ergo Champions #3", "description": "A brave champion hailed from
-    the fantasy world of Sigmahaven. They are on a quest to command and conquer
-    those who oppose their kingdom.", "file_url": "Ergo Champions",
-    "custom_fields": {"dna": "2cee8dc382d74a836daa0c1e0e268b2e5045a8c1",
-    "edition": 3, "date": 1658615942119, "compiler": "Ergo Champions"},
-    "attributes": [{"trait_type": "background", "value": "brass "},
-    {"trait_type": "character", "value": "skeleton"}, {"trait_type": "boots",
-    "value": "citizen boots "}, {"trait_type": "armor", "value": "bronze armor
-    "}, {"trait_type": "arm", "value": "emerald arms"}, {"trait_type": "shield",
-    "value": "black and red shield"}, {"trait_type": "weapons", "value":
-    "bending sword "}, {"trait_type": "amulet", "value": "red amulet "},
-    {"trait_type": "helmet", "value": "emerald helmet "}]}
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/3.jpeg
 - tokenId: 63869f53a731088e4c206094a662eefb2694293aa95994ad9f396f8941546850
   name: 'Ergo Champions #4'
   description: >-
@@ -135,41 +67,7 @@ nfts:
     "helmet", "value": "voraks helmet "}]}
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/4.jpeg
-- tokenId: 634181d4a208f535022a03129eb7d164de7a722791c28569c2603d13aec4bcf6
-  name: 'Ergo Champions #4'
-  description: >-
-    {"name": "Ergo Champions #4", "description": "A brave champion hailed from
-    the fantasy world of Sigmahaven. They are on a quest to command and conquer
-    those who oppose their kingdom.", "file_url": "Ergo Champions",
-    "custom_fields": {"dna": "ccc3055714831238c09bbfab6942bfbe1344dea8",
-    "edition": 4, "date": 1658615943177, "compiler": "Ergo Champions"},
-    "attributes": [{"trait_type": "background", "value": "ecru "},
-    {"trait_type": "character", "value": "skeleton"}, {"trait_type": "boots",
-    "value": "ruby boots "}, {"trait_type": "armor", "value": "ergo armor "},
-    {"trait_type": "arm", "value": "bronze arm armor"}, {"trait_type": "shield",
-    "value": "pink and blue shield"}, {"trait_type": "weapons", "value": "knife
-    "}, {"trait_type": "amulet", "value": "diamond amulet "}, {"trait_type":
-    "helmet", "value": "voraks helmet "}]}
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/4.jpeg
 - tokenId: 3297aaf6829f1c9a0d024781af8a609d6f8dadb2681ea1c38826c2ad7daf7707
-  name: 'Ergo Champions #5'
-  description: >-
-    {"name": "Ergo Champions #5", "description": "A brave champion hailed from
-    the fantasy world of Sigmahaven. They are on a quest to command and conquer
-    those who oppose their kingdom.", "file_url": "Ergo Champions",
-    "custom_fields": {"dna": "a8efd9d03417f0022783cd78b22a66e2528af356",
-    "edition": 5, "date": 1658615943971, "compiler": "Ergo Champions"},
-    "attributes": [{"trait_type": "background", "value": "brick "},
-    {"trait_type": "character", "value": "skeleton"}, {"trait_type": "boots",
-    "value": "citizen boots "}, {"trait_type": "armor", "value": "bronze armor
-    "}, {"trait_type": "arm", "value": "gray and blue arm armor"},
-    {"trait_type": "shield", "value": "pink and blue shield"}, {"trait_type":
-    "weapons", "value": "bent spear "}, {"trait_type": "amulet", "value": "red
-    amulet "}, {"trait_type": "helmet", "value": "helmet "}]}
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/5.jpeg
-- tokenId: 11ce8303416bae0938c3bfffd313dbd3101c2d39f274dcbb01bb86b9b10eda24
   name: 'Ergo Champions #5'
   description: >-
     {"name": "Ergo Champions #5", "description": "A brave champion hailed from
