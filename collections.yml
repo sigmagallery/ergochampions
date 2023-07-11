@@ -1,5 +1,3 @@
 collections:
 - label: Ergo Champions
   data: ergochampions.yml
-- label: Mage Champions
-  data: magechampions.yml
