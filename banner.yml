@@ -1,15 +1,11 @@
 title: Ergo Champions
 description: Brave champions hailing from the fantasy world of Sigmahaven. They are on a quest to command and conquer those who oppose their kingdom.
-image: https://cloudflare-ipfs.com/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/418.jpeg
+image: https://ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/418.jpeg
 mintAddresses:
 - 9hyxVZLRuJ1zkgYfMPYHLTnBixAgZfLVwxioWhAXWTD3bLzmntC
-bannerLinks:
 - label: Twitter
-  url: https://twitter.com/
+  url: https://twitter.com/ergochampions
   icon: fa-brands fa-twitter fa-fw
-- label: Telegram
-  url: https://t.me/
-  icon: fa-brands fa-telegram fa-fw
 - label: Discord
-  url: https://discord.com/users/
+  url: https://discord.com/invite/YEPm2RFnQE
   icon: fa-brands fa-discord fa-fw

@@ -1,12 +1,9 @@
 links:
 - label: Twitter
-  url: https://twitter.com/
+  url: https://twitter.com/ergochampions
   icon: fa-brands fa-twitter fa-fw
-- label: Telegram
-  url: https://t.me/
-  icon: fa-brands fa-telegram fa-fw
 - label: Discord
-  url: https://discord.com/users/
+  url: https://discord.com/invite/YEPm2RFnQE
   icon: fa-brands fa-discord fa-fw
 - label: Skyharbor
   url: https://www.skyharbor.io/collection/ergochampions
