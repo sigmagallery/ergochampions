@@ -1,13 +1,13 @@
 collections:
 - label: Ergo Champions
   data: ergochampions.yml
-  image: https://ipfs.io/ipfs/bafybeic3rakkub7gsowc5cncbzqkujwtkp64mwcfkm3kkh2melgd7d7rhy/13.jpeg
+  image: https://img1.sigma.gallery/ergochampions/ergo-champions/64696d812bd3c27338f15f0a50b29b02b1e9dc90eebc5b152efefed818307122.webp
   description: "Brave champions hailing from the fantasy world of Sigmahaven. They are on a quest to command and conquer those who oppose their kingdom."
 - label: Mage Champions
   data: magechampions.yml
-  image: https://ipfs.io/ipfs/bafybeib6r5hpoazdfr5pjurcamsor7jfo5obc3ll6p5icvzydx6tm6vymu/1.png
+  image: https://img1.sigma.gallery/ergochampions/mage-champions/062e71bcd3e65682b0772c1954b446ced42ebe255d8bf8653a5d12ceefbba53d.webp
   description: "An army of elegant and yet deadly Mage Champions. Their vast powers far outweigh anything Sigmahaven has seen before. From peace to destruction, not every mage desires equal outcomes."
 - label: Mini Champs
   data: minichamps.yml
-  image: https://ipfs.io/ipfs/bafybeiehfoxkcfoou4uj7ey5egmldipz4d6qgyu7aou356gnzfy3fbemfu/1.png
+  image: https://img1.sigma.gallery/ergochampions/mini-champs/035c65f3fa0cfd0b98a87bc20609dc5a4af10b91e9a18212a2270c38b51620d9.webp
   description: "You are stronger than you think. You have an unlocked potential inside of yourself that would surprise you. Do not be too hard on yourself. You have got this. #MentalHealth"
